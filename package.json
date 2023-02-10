@@ -1,0 +1,26 @@
+{
+  "name": "gways",
+  "version": "1.0.0",
+  "description": "GWays is a discord giveaway bot made by JustStop__#2020. The objectives are :",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "discord-giveaways": "^4.2.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.0",
+    "ms": "^2.1.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "tB",
+    "youtube"
+  ],
+  "author": "",
+  "license": "MIT"
+}
